@@ -41,5 +41,5 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 ### build
 
 ```
-20240811
+20240811-0
 ```
